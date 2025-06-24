@@ -1,4 +1,4 @@
-# 🤖 Multi-Provider LLM Chatbot
+# 🤖 LLM Connect Multi-Provider Chatbot
 
 A **Streamlit-based conversational AI application** designed to interface with leading large language model (LLM) APIs including **OpenAI**, **OpenRouter**, and **Hugging Face**. This application allows users to securely plug in their own API keys, select models dynamically, and engage in rich, contextual chatbot conversations — all through a seamless, privacy-conscious interface.
 
